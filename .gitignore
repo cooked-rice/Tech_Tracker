@@ -1,0 +1,3 @@
+.venv/
+seen.json
+__pycache__/
